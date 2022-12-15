@@ -1,5 +1,5 @@
 # leaflet-challenge
-Earthquake data visualizations using HTML and JavaScript
+Earthquake data visualizations using HTML, CSS, JSON, Leaflet, D3 and JavaScript
 
 # Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -15,4 +15,4 @@ The USGS is interested in building a new set of tools that will allow them to vi
 - I will include popups that provide additional information about the earthquake when its associated marker is clicked.
 - I will create a legend that will provide context for my map data.
 
-
+image.png
