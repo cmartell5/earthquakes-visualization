@@ -15,4 +15,5 @@ The USGS is interested in building a new set of tools that will allow them to vi
 - I will include popups that provide additional information about the earthquake when its associated marker is clicked.
 - I will create a legend that will provide context for my map data.
 
-image.png
+![image](https://user-images.githubusercontent.com/100399092/207763589-2b6b2062-09f3-4234-a54e-0c472e7cc19d.png)
+
