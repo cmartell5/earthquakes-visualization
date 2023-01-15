@@ -1,4 +1,4 @@
-# earthquakes-visualization
+# Earthquakes Visualization
 Earthquake data visualizations using HTML, CSS, JSON, Leaflet, D3 and JavaScript
 
 # Background
